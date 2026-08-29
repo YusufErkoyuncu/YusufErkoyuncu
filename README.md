@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a **Computer Engineering student**, preparing to begin a double major in **Artificial Intelligence and Data Science Engineering**. I am especially interested in bringing software engineering, intelligent systems, and data-informed thinking into products that feel clear and useful.
+I am a **Computer Engineering student** interested in bringing software engineering, intelligent systems, and data-informed thinking into products that feel clear and useful.
 
 I chose **mobile development** as the main direction of my work. I want to build useful, thoughtful mobile applications and learn the full journey from an early idea to a product people can actually use.
 
