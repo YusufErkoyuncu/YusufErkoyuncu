@@ -5,7 +5,7 @@
 <h1 align="center">Yusuf Erkoyuncu</h1>
 
 <p align="center">
-  Founder of <strong>Eksen Works</strong> · Building games and playful digital experiences
+  Mobile developer · Founder of <strong>Eksen Works</strong> · Building apps, games, and digital experiences
 </p>
 
 <p align="center">
@@ -20,7 +20,9 @@
 
 ## About Me
 
-I like turning difficult goals into systems I can understand and act on. When a task feels large or repetitive, I naturally break it into smaller levels, define what unlocks the next step, and keep moving. That same way of thinking is what drew me toward games, product development, and the choices behind interactive experiences.
+I chose **mobile development** as the main direction of my work. I want to build useful, thoughtful mobile applications and learn the full journey from an early idea to a product people can actually use.
+
+I like turning difficult goals into systems I can understand and act on. When a task feels large or repetitive, I naturally break it into smaller levels, define what unlocks the next step, and keep moving. That same way of thinking drew me toward mobile products, game systems, and the choices behind interactive experiences.
 
 I am learning by building real projects from the first idea to the difficult final details: mechanics, interface, progression, testing, privacy, release preparation, and everything that turns a prototype into a product. I care about how each decision changes the experience—not only whether the code works.
 
@@ -28,9 +30,9 @@ My interests go beyond entertainment. I am also curious about how gamification a
 
 ## Eksen Works
 
-I am building **Eksen Works** into a home for original games and thoughtfully crafted digital experiences.
+I am building **Eksen Works** into a home for thoughtfully crafted mobile applications, original games, and digital experiences.
 
-The goal is not to stay inside one game, genre, or platform. I want each project to explore a different idea while carrying the same values: clear interaction, thoughtful systems, careful polish, and the patience to finish what I start.
+Games are an important creative branch of that journey, but not the only direction. I want each project to explore a different idea while carrying the same values: clear interaction, thoughtful systems, careful polish, and the patience to finish what I start.
 
 ## Now Building
 
@@ -46,7 +48,7 @@ Squish Up is the beginning—not the boundary. Future Eksen Works projects will 
 
 ## What I Build With
 
-`Kotlin` · `Jetpack Compose` · `Android` · `Git` · `GitHub Actions` · `Product Design` · `Game Systems`
+`Kotlin` · `Jetpack Compose` · `Android` · `Mobile Product Development` · `Git` · `GitHub Actions` · `Product Design` · `Game Systems`
 
 I choose tools around the experience I want to create, and I expect this list to grow as Eksen Works expands to new platforms.
 
