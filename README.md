@@ -5,7 +5,7 @@
 <h1 align="center">Yusuf Erkoyuncu</h1>
 
 <p align="center">
-  Mobile developer · Founder of <strong>Eksen Works</strong> · Building apps, games, and digital experiences
+  Computer Engineering student · Mobile developer · Founder of <strong>Eksen Works</strong>
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
 ---
 
 ## About Me
+
+I am a **Computer Engineering student**, preparing to begin a double major in **Artificial Intelligence and Data Science Engineering**. I am especially interested in bringing software engineering, intelligent systems, and data-informed thinking into products that feel clear and useful.
 
 I chose **mobile development** as the main direction of my work. I want to build useful, thoughtful mobile applications and learn the full journey from an early idea to a product people can actually use.
 
