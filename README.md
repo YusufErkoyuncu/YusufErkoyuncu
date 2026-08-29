@@ -18,11 +18,19 @@
 
 ---
 
-## About
+## About Me
 
-I am an independent developer building **Eksen Works** into a home for original games and thoughtfully crafted digital experiences.
+I like turning difficult goals into systems I can understand and act on. When a task feels large or repetitive, I naturally break it into smaller levels, define what unlocks the next step, and keep moving. That same way of thinking is what drew me toward games, product development, and the choices behind interactive experiences.
 
-My focus is on turning playful ideas into complete products: shaping the interaction, building the software, refining the feel, and carrying each project all the way to release. The goal is not to stay inside one game, genre, or platform. Each project is a new world and a chance to build something more memorable.
+I am learning by building real projects from the first idea to the difficult final details: mechanics, interface, progression, testing, privacy, release preparation, and everything that turns a prototype into a product. I care about how each decision changes the experience—not only whether the code works.
+
+My interests go beyond entertainment. I am also curious about how gamification and game-based learning can make difficult subjects easier to approach, create meaningful choices, and help people understand perspectives beyond their own. Alongside development, I keep improving my English so I can learn, collaborate, and build for a wider world.
+
+## Eksen Works
+
+I am building **Eksen Works** into a home for original games and thoughtfully crafted digital experiences.
+
+The goal is not to stay inside one game, genre, or platform. I want each project to explore a different idea while carrying the same values: clear interaction, thoughtful systems, careful polish, and the patience to finish what I start.
 
 ## Now Building
 
@@ -51,6 +59,8 @@ Test on real devices.
 Polish what players notice.
 Ship, learn, and build the next world.
 ```
+
+I do not expect every first idea to be right. I compare alternatives, test assumptions, protect what already works, and change direction when the evidence is stronger than the original plan.
 
 ## Projects
 
