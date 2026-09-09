@@ -2,11 +2,11 @@
   <img src="./assets/eksen-works-banner.png" alt="Eksen Works" width="100%" />
 </p>
 
-# Hi, I'm Yusuf Erkoyuncu
+# Hi, I'm Yusuf Eren Erkoyuncu
 
 Computer Engineering student at Istanbul Aydin University, interested in software and mobile product development.
 
-[LinkedIn](https://tr.linkedin.com/in/yusuf-eren-erkoyuncu-0381a6358) · [Eksen Works](https://yusuferkoyuncu.github.io/) · [Squish Up](https://yusuferkoyuncu.github.io/SquishUp/)
+[LinkedIn](https://tr.linkedin.com/in/yusuf-eren-erkoyuncu-0381a6358) · [Eksen Works](https://yusuferkoyuncu.github.io/) · [Squish Up](https://yusuferkoyuncu.github.io/SquishUp/) · [LingoClue](https://github.com/YusufErkoyuncu/LingoClue)
 
 ## About
 
