@@ -4,7 +4,7 @@
 
 # Hi, I'm Yusuf Eren Erkoyuncu
 
-Computer Engineering student at Istanbul Aydin University, accepted into the AI and Data Engineering (English) double major program. I am learning full-stack and mobile development to build products end to end.
+I am a Computer Engineering student at Istanbul Aydin University, also studying AI and Data Engineering (English) as a double major. I am learning full-stack and mobile development to build products end to end.
 
 [LinkedIn](https://www.linkedin.com/in/yusuf-eren-erkoyuncu-0381a6358/) · [Eksen Works](https://yusuferkoyuncu.github.io/) · [Squish Up](https://yusuferkoyuncu.github.io/SquishUp/) · [LingoClue](https://github.com/YusufErkoyuncu/LingoClue)
 
