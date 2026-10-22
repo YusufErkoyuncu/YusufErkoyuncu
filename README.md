@@ -4,31 +4,41 @@
 
 # Hi, I'm Yusuf Eren Erkoyuncu
 
-I am a Computer Engineering student at Istanbul Aydin University, also studying AI and Data Engineering (English) as a double major. I am learning full-stack and mobile development to build products end to end.
+Computer Engineering & AI and Data Engineering Double Major | Full-Stack & Mobile Development | AI-Assisted Product Development
+
+I am a second-year Computer Engineering student at Istanbul Aydin University, pursuing a simultaneous double major in AI and Data Engineering (English). My GPA is **3.92/4.00**, and I rank **second in my Computer Engineering department**. I am based in Istanbul, Türkiye.
 
 [LinkedIn](https://www.linkedin.com/in/yusuf-eren-erkoyuncu-0381a6358/) · [Eksen Works](https://yusuferkoyuncu.github.io/) · [Squish Up](https://yusuferkoyuncu.github.io/SquishUp/) · [LingoClue](https://github.com/YusufErkoyuncu/LingoClue)
 
 ## About
 
-I am building my programming foundations through coursework and hands-on projects. I studied C and Java at Istanbul Aydin University, Python through BTK Akademi, and HTML/CSS fundamentals through W3Schools. My current goal is to learn frontend, backend, and mobile development, while growing my AI and data engineering knowledge.
+I am developing my skills in full-stack development, including frontend and backend, as well as mobile applications and mobile games. My studies and practice with **Python, Java, C, and C++** cover object-oriented programming (OOP) and file handling. I also work with HTML/CSS, Git, and GitHub.
 
-For my mobile projects, I use an AI-assisted workflow: I define features, break work into tasks, test, identify issues, review outputs, and iterate. These projects are learning experiences, not a claim of professional-level expertise in every technology involved.
+My personal coding proficiency in **Kotlin, SwiftUI, and Flutter is basic**. I develop mobile products with AI assistance, working on product design, feature definition, game mechanics, testing, debugging, integrations, and store releases.
 
-## Current projects
+I aim to deepen my knowledge and practical experience in Python-based artificial intelligence, data science, machine learning, data analytics, and data visualization. These are areas I am working toward as I continue my studies and build products.
+
+## Projects
 
 | Project | Status | My work |
 | --- | --- | --- |
-| [Squish Up](https://github.com/YusufErkoyuncu/SquishUp) | In development | A casual mobile game. I work on feature definition, testing, issue identification, iteration, and release preparation. The public repository contains the website, privacy policy, and support pages; the application source is private. |
-| [LingoClue](https://github.com/YusufErkoyuncu/LingoClue) | In development | A mobile language-learning game. I work on product ideas, task structure, testing, output review, and debugging. The public repository contains privacy and support pages; the application source is private. |
+| [Squish Up](https://yusuferkoyuncu.github.io/SquishUp/) | Published on the App Store and Google Play | A mobile game whose design and development process I lead under Eksen Works. Android uses Kotlin; iOS uses SwiftUI. With AI assistance, I work on product design, game mechanics, testing, debugging, ad integrations, leaderboards, and store publishing. |
+| [LingoClue](https://github.com/YusufErkoyuncu/LingoClue) | In development | A mobile language-learning game. I work on product ideas, task structure, testing, reviewing results, and debugging with AI assistance. The public repository contains privacy and support pages. |
+| ScreenMind | Personal project | Another of my software project efforts. |
 
 ## Skills and tools
 
-- Foundations: C, Java, Python, HTML, and CSS
-- Git and GitHub
-- Android Studio and introductory Kotlin
-- AI-assisted planning, development, testing, and debugging
-- Currently learning frontend, backend, and mobile development
+- **Programming:** Python, Java, C, C++ — coursework and practice covering OOP and file handling
+- **Web:** HTML, CSS; developing my frontend and backend skills
+- **Mobile:** Kotlin, SwiftUI, Flutter — basic personal coding proficiency, used in an AI-assisted development workflow
+- **Version control:** Git, GitHub
+- **Development tools:** VS Code, Xcode, Android Studio
+- **Product development:** product design, testing, debugging, integrations, and app store publishing with AI assistance
 
 ## Eksen Works
 
-Eksen Works is my personal project label for the mobile products I am developing while learning.
+Eksen Works is the studio name under which I publish my software and mobile applications. Squish Up is available on the App Store and Google Play.
+
+## International experience
+
+I participated in the **Virtual Components Erasmus+ youth exchange** in North Macedonia from **24 August to 1 September 2025**, with participation documented by a **Youthpass certificate**. I value intercultural communication, teamwork, and learning from different perspectives.
